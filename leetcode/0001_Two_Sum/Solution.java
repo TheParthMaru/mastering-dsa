@@ -4,7 +4,7 @@
  * 
  * Approach: Using HashMap
  * TC - O(N)
- * SC - O(1)
+ * SC - O(N)
  */
 
 import java.util.HashMap;
