@@ -19,8 +19,8 @@
   - [Largest element in an array (GFG)](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
 - Notes:
 - Solution:
-  - [Second largest element in an array (GFG)](https://www.geeksforgeeks.org/problems/second-largest3735/1)
-  - [Largest element in an array (GFG)](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
+  - [Second largest element in an array (GFG)](https://github.com/TheParthMaru/DSA/blob/main/arrays/arrays_solutions/SecondLargestElement.java)
+  - [Largest element in an array (GFG)](https://github.com/TheParthMaru/DSA/blob/main/arrays/arrays_solutions/LargestElement.java)
 
 </details>
 
