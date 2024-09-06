@@ -46,7 +46,15 @@
 <details>
   <summary><b>2. Add two arrays</b></summary>
 
--   Problem link: Custom problem
+-   Problem statement: Given two arrays `arr1` and `arr2` where each element is an integer. Write a function that adds each digit of the array starting from its last position and returns the result array.
+-   Test cases:
+
+```
+Input: arr1 = [9, 9, 9],  arr2 = [9, 9, 9, 9]
+Output: result = [1, 0, 9, 9, 8]
+Explanation: Starting adding the digits from the end of the arr i.e 9 + 9 = 18. Adding 8 as an element in the result and use 1 for carry and calculate so on.
+```
+
 -   Notes:
 -   Solution:
 
