@@ -7,7 +7,6 @@
   <summary><b>1. Reverse an array</b></summary>
 
 -   Problem link: [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
--   Notes: No notes required, fairly simple.
 -   [Solution](https://github.com/TheParthMaru/DSA/tree/main/leetcode/0334_Reverse_String)
 
 </details>
@@ -19,7 +18,6 @@
 -   Problem link:
     -   [Second largest element in an array (GFG)](https://www.geeksforgeeks.org/problems/second-largest3735/1)
     -   [Largest element in an array (GFG)](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
--   Notes:
 -   Solution:
     -   [Second largest element in an array (GFG)](https://github.com/TheParthMaru/DSA/blob/main/arrays/arrays_solutions/SecondLargestElement.java)
     -   [Largest element in an array (GFG)](https://github.com/TheParthMaru/DSA/blob/main/arrays/arrays_solutions/LargestElement.java)
@@ -37,8 +35,8 @@
 -   Notes:
     -   Solve this one only with the bruteforce approach for now.
     -   HashSet knowledge required.
-    -   [Link of notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/349_intersection_of_two_arrays.pdf)
--   [Solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0349_intersection_of_two_arrays)
+    -   [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/349_intersection_of_two_arrays.pdf)
+-   Solution:[Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0349_intersection_of_two_arrays)
 
 </details>
 
