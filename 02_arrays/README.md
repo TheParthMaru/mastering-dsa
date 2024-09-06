@@ -61,8 +61,8 @@ Explanation: Starting adding the digits from the end of the arr i.e 9 + 9 = 18. 
   <summary><b>3. Running Sum of 1d Array</b></summary>
 
 -   Problem link: [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
--   Notes:
--   Solution:
+-   Notes: [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/1480_running_sum_of_1d_array.pdf)
+-   Solution: [Link to solution](https://github.com/TheParthMaru/mastering-dsa/blob/main/leetcode/1480_running_sum_of_1d_array/Solution.java)
 
 </details>
 
