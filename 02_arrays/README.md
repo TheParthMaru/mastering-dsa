@@ -1,7 +1,7 @@
 # List of problems solved
 
 ## Basic
-
+<!-- Problem: Reverse an array -->
 <details>
   <summary><b>1. Reverse an array</b></summary>
 
@@ -11,6 +11,7 @@
 
 </details>
 
+<!-- Problem: Find the largest/ second largest/ smallest/ second smallest element -->
 <details>
   <summary><b>2. Find the largest/ second largest/ smallest/ second smallest element</b></summary>
 
@@ -26,6 +27,7 @@
 
 ## Easy
 
+<!-- Problem: Intersection of two arrays -->
 <details>
   <summary><b>1. Intersection of two arrays</b></summary>
 
@@ -39,6 +41,7 @@
 
 </details>
 
+<!-- Problem: Add two arrays -->
 <details>
   <summary><b>2. Add two arrays</b></summary>
 
@@ -59,6 +62,7 @@
 
 ## Medium
 
+<!-- Problem: Rotate elements left or right k times -->
 <details>
   <summary><b>1. Rotate elements left or right k times</b></summary>
 
