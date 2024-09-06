@@ -55,8 +55,7 @@ Output: result = [1, 0, 9, 9, 8]
 Explanation: Starting adding the digits from the end of the arr i.e 9 + 9 = 18. Adding 8 as an element in the result and use 1 for carry and calculate so on.
 ```
 
--   Notes:
--   Solution:
+-   Solution: [Link to solution](https://github.com/TheParthMaru/mastering-dsa/blob/main/02_arrays/arrays_solutions/AddTwoArrays.java)
 
 </details>
 
