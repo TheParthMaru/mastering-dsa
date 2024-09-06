@@ -34,7 +34,8 @@
 - Notes:
   - Solve this one only with the bruteforce approach for now.
   - HashSet knowledge required.
-- Solution:
+  - Link of notes: <https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/349_intersection_of_two_arrays.pdf>
+- Solution: <https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0349_intersection_of_two_arrays>
 
 </details>
 
