@@ -74,8 +74,8 @@ Explanation: Starting adding the digits from the end of the arr i.e 9 + 9 = 18. 
 
 -   Problem link:
     -   [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissions/1375380722/)
--   Notes:
--   Solution:
+-   Notes: [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/189_rotate_array.pdf)
+-   Solution: [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0189_Rotate_array)
 
 </details>
 
