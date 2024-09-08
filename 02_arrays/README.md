@@ -66,6 +66,23 @@ Explanation: Starting adding the digits from the end of the arr i.e 9 + 9 = 18. 
 
 </details>
 
+<!-- Problem: Sort binary array -->
+<details>
+  <summary><b>4. Sort binary array</b></summary>
+  
+- Problem statement: Given an array which only contains 0s and 1s in a random shuffled order, re-arrange the array such that all the 0s are placed before 1s.
+
+```
+Input: [1, 0, 0, 1, 0]
+Output: [0, 0, 0, 1, 1]
+```
+
+-   [Link to notes]()
+
+-   [Link to solution]()
+
+</details>
+
 ## Medium
 
 <!-- Problem: Rotate elements left or right k times -->
