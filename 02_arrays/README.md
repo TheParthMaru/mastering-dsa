@@ -77,9 +77,9 @@ Input: [1, 0, 0, 1, 0]
 Output: [0, 0, 0, 1, 1]
 ```
 
--   [Link to notes]()
+-   [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/02_arrays/Sort_binary_array.pdf)
 
--   [Link to solution]()
+-   [Link to solution](https://github.com/TheParthMaru/mastering-dsa/blob/main/02_arrays/arrays_solutions/SortBinaryArray.java)
 
 </details>
 
