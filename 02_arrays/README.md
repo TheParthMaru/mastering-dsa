@@ -83,6 +83,56 @@ Output: [0, 0, 0, 1, 1]
 
 </details>
 
+<!-- Problem: Merge two sorted arrays -->
+<details>
+  <summary><b>5. Merge two sorted arrays</b></summary>
+  
+- Problem link:
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: Best time to buy and sell stock -->
+<details>
+  <summary><b>6. Best time to buy and sell stock</b></summary>
+  
+- [Problem link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: Max consecutive ones -->
+<details>
+  <summary><b>7. Max consecutive ones</b></summary>
+  
+- [Problem link](https://leetcode.com/problems/max-consecutive-ones/description/)
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: Find all numbers disappeared in an array -->
+<details>
+  <summary><b>8. Find all numbers disappeared in an array</b></summary>
+  
+- [Problem link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: Two sum -->
+<details>
+  <summary><b>9. Two sum</b></summary>
+  
+- [Problem link](https://leetcode.com/problems/two-sum/description/)
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
 ## Medium
 
 <!-- Problem: Rotate elements left or right k times -->
