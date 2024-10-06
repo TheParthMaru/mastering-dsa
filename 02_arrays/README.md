@@ -143,6 +143,15 @@ Output: [0, 0, 0, 1, 1]
 
 </details>
 
+<!-- Problem: Majority Element -->
+<details>
+  <summary><b>11. Majority Element</b></summary>
+
+- [Problem link](https://leetcode.com/problems/majority-element/description/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/169_majority_element.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0169_majority_element)
+</details>
+
 ## Medium
 
 <!-- Problem: Rotate elements left or right k times -->
