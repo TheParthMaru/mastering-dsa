@@ -109,8 +109,8 @@ Output: [0, 0, 0, 1, 1]
   <summary><b>7. Max consecutive ones</b></summary>
   
 - [Problem link](https://leetcode.com/problems/max-consecutive-ones/description/)
-- [Link to notes]()
-- [Link to solution]()
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/485_max_consecutive_ones.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0485_Max_consecutive_ones)
 
 </details>
 
