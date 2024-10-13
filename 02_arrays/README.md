@@ -99,8 +99,8 @@ Output: [0, 0, 0, 1, 1]
   <summary><b>6. Best time to buy and sell stock</b></summary>
   
 - [Problem link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
-- [Link to notes]()
-- [Link to solution]()
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/121_best_time_to_buy_%26_sell_stocks.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0121_best_time_to_buy_%26_sell_stock)
 
 </details>
 
