@@ -129,8 +129,8 @@ Output: [0, 0, 0, 1, 1]
   <summary><b>9. Two sum</b></summary>
   
 - [Problem link](https://leetcode.com/problems/two-sum/description/)
-- [Link to notes]()
-- [Link to solution]()
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/1_Two_sum.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0001_Two_Sum)
 
 </details>
 
