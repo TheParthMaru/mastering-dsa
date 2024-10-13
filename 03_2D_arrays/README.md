@@ -20,6 +20,15 @@
 
 </details>
 
+<!-- Problem: Print column wise-->
+<details>
+  <summary><b>03. Print waveform</b></summary>
+
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/03_2D_arrays/notes/04_print_2D_array_in_waveform.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/blob/main/03_2D_arrays/code/WavePrint.java)
+
+</details>
+
 ## Easy
 
 ## Medium
