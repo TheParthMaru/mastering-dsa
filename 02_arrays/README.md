@@ -119,8 +119,8 @@ Output: [0, 0, 0, 1, 1]
   <summary><b>8. Find all numbers disappeared in an array</b></summary>
   
 - [Problem link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
-- [Link to notes]()
-- [Link to solution]()
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/448_find_all_numbers_disappeared_in_an_array.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0448_find_all_numbers_disappeared_in_an_array)
 
 </details>
 
