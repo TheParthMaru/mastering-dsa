@@ -89,8 +89,8 @@ Output: [0, 0, 0, 1, 1]
   <summary><b>5. Merge sorted arrays</b></summary>
   
 - Problem link: [88. Merge sorted arrays](https://leetcode.com/problems/merge-sorted-array/description/)
-- [Link to notes]()
-- [Link to solution]()
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/88_merge_sorted_arrays.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0088_merge_sorted_arrays)
 
 </details>
 
