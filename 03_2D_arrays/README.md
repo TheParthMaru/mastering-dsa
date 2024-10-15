@@ -40,6 +40,16 @@
 
 ## Easy
 
+<!-- Problem: Transpose matrix-->
+<details>
+  <summary><b>01. Transpose Matrix</b></summary>
+
+- [Link to problem](https://leetcode.com/problems/transpose-matrix/description/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/867_transpose_matrix.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0867_transpose_matrix)
+
+</details>
+
 ## Medium
 
 ## Hard
