@@ -29,6 +29,15 @@
 
 </details>
 
+<!-- Problem: Matrix multiplication-->
+<details>
+  <summary><b>04. Matrix multiplication</b></summary>
+
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/03_2D_arrays/notes/05_matrix_multiplication.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/blob/main/03_2D_arrays/code/MatrixMultiplication.java)
+
+</details>
+
 ## Easy
 
 ## Medium
