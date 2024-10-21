@@ -60,4 +60,13 @@
 
 ## Medium
 
+<!-- Problem: Set Matrix Zeroes-->
+<details>
+  <summary><b>01. Set Matrix Zeroes</b></summary>
+
+- [Link to problem](https://leetcode.com/problems/set-matrix-zeroes/description/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/73_set_matrix_zeroes.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0073_set_matrix_zeroes)
+</details>
+
 ## Hard
