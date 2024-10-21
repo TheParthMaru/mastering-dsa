@@ -47,7 +47,15 @@
 - [Link to problem](https://leetcode.com/problems/transpose-matrix/description/)
 - [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/867_transpose_matrix.pdf)
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0867_transpose_matrix)
+</details>
 
+<!-- Problem: Richest Customer Wealth-->
+<details>
+  <summary><b>02. Richest Customer Wealth</b></summary>
+
+- [Link to problem](https://leetcode.com/problems/richest-customer-wealth/description/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/1672_richest_customer_wealth.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/1672_richest_customer_wealth)
 </details>
 
 ## Medium
