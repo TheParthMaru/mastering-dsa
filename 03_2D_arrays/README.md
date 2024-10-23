@@ -69,4 +69,13 @@
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0073_set_matrix_zeroes)
 </details>
 
+<!-- Problem: Spiral Matrix-->
+<details>
+  <summary><b>02. Spiral Matrix</b></summary>
+
+- [Link to problem](https://leetcode.com/problems/spiral-matrix/description/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/54_spiral_matrix.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0054_spiral_matrix)
+</details>
+
 ## Hard
