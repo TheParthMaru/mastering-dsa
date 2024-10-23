@@ -78,4 +78,13 @@
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0054_spiral_matrix)
 </details>
 
+<!-- Problem: Spiral Matrix-->
+<details>
+  <summary><b>03. Rotate image</b></summary>
+
+- [Link to problem](https://leetcode.com/problems/rotate-image/description/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/48_rotate_image.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0048_rotate_image)
+</details>
+
 ## Hard
