@@ -67,6 +67,15 @@
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0566_reshape_the_matrix)
 </details>
 
+<!-- Problem: Find Winner on a Tic Tac Toe Game -->
+<details>
+  <summary><b>04. Find Winner on a Tic Tac Toe Game</b></summary>
+
+- [Link to problem](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/1275_find_winner_on_a_tic_tac_toe_game.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/1275_find_winner_on_a_tic_tac_toe_game)
+</details>
+
 ## Medium
 
 <!-- Problem: Set Matrix Zeroes-->
