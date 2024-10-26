@@ -58,6 +58,15 @@
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/1672_richest_customer_wealth)
 </details>
 
+<!-- Problem: Reshape the Matrix-->
+<details>
+  <summary><b>03. Reshape the Matrix</b></summary>
+
+- [Link to problem](https://leetcode.com/problems/reshape-the-matrix/description/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/566_reshape_the_matrix.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0566_reshape_the_matrix)
+</details>
+
 ## Medium
 
 <!-- Problem: Set Matrix Zeroes-->
