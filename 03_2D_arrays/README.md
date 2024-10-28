@@ -76,6 +76,24 @@
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/1275_find_winner_on_a_tic_tac_toe_game)
 </details>
 
+<!-- Problem: Toeplitz Matrix -->
+<details>
+  <summary><b>05. Toeplitz Matrix</b></summary>
+
+- [Link to problem](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/766_toeplitz_matrix.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0766_toeplitz_matrix)
+</details>
+
+<!-- Problem: Flipping an Image -->
+<details>
+  <summary><b>06. Flipping an Image</b></summary>
+
+- [Link to problem](https://leetcode.com/problems/flipping-an-image/description/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/832_flipping_an_image.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0832_flipping_an_image)
+</details>
+
 ## Medium
 
 <!-- Problem: Set Matrix Zeroes-->
