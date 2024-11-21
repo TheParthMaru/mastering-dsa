@@ -153,6 +153,15 @@ Output: [0, 0, 0, 1, 1]
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0169_majority_element)
 </details>
 
+<!-- Problem: Remove duplicates from sorted arrat -->
+<details>
+  <summary><b>12. Remove Duplicates from Sorted Array</b></summary>
+
+- [Problem link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/26_remove_duplicates_from_sorted_array.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0026_Remove_dup_from_sorted_arr)
+</details>
+
 ## Medium
 
 <!-- Problem: Rotate elements left or right k times -->
@@ -163,6 +172,16 @@ Output: [0, 0, 0, 1, 1]
   - [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissions/1375380722/)
 - Notes: [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/189_rotate_array.pdf)
 - Solution: [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0189_Rotate_array)
+
+</details>
+
+<!-- Problem: Two Sum II - Input Array Is Sorted -->
+<details>
+  <summary><b>2. Two Sum II - Input Array Is Sorted</b></summary>
+
+- [Problem link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/167_two_sum_2.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0167_two_sum_2)
 
 </details>
 
