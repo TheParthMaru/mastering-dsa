@@ -4,10 +4,10 @@
 
 <!-- Problem: Reverse an array -->
 <details>
-  <summary><b>1. Reverse an array</b></summary>
+  <summary><b>1. Reverse an array/string</b></summary>
 
-- Problem link: [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)
-- [Solution](https://github.com/TheParthMaru/DSA/tree/main/leetcode/0334_Reverse_String)
+- [Problem link](https://leetcode.com/problems/reverse-string/description/)
+- [Link to Solution](https://github.com/TheParthMaru/DSA/tree/main/leetcode/0334_Reverse_String)
 
 </details>
 
@@ -30,13 +30,12 @@
 <details>
   <summary><b>1. Intersection of two arrays</b></summary>
 
-- Problem link:
-  - [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+- [Problem link](https://leetcode.com/problems/intersection-of-two-arrays/description/)
 - Notes:
   - Solve this one only with the bruteforce approach for now.
   - HashSet knowledge required.
   - [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/349_intersection_of_two_arrays.pdf)
-- Solution:[Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0349_intersection_of_two_arrays)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0349_intersection_of_two_arrays)
 
 </details>
 
@@ -53,17 +52,17 @@ Output: result = [1, 0, 9, 9, 8]
 Explanation: Starting adding the digits from the end of the arr i.e 9 + 9 = 18. Adding 8 as an element in the result and use 1 for carry and calculate so on.
 ```
 
-- Notes: [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/02_arrays/notes/03_add_two_arrays.pdf)
-- Solution: [Link to solution](https://github.com/TheParthMaru/mastering-dsa/blob/main/02_arrays/arrays_solutions/AddTwoArrays.java)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/02_arrays/notes/03_add_two_arrays.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/blob/main/02_arrays/arrays_solutions/AddTwoArrays.java)
 
 </details>
 
 <details>
   <summary><b>3. Running Sum of 1d Array</b></summary>
 
-- Problem link: [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
-- Notes: [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/1480_running_sum_of_1d_array.pdf)
-- Solution: [Link to solution](https://github.com/TheParthMaru/mastering-dsa/blob/main/leetcode/1480_running_sum_of_1d_array/Solution.java)
+- [Problem link](https://leetcode.com/problems/running-sum-of-1d-array/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/1480_running_sum_of_1d_array.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/blob/main/leetcode/1480_running_sum_of_1d_array/Solution.java)
 
 </details>
 
@@ -88,7 +87,7 @@ Output: [0, 0, 0, 1, 1]
 <details>
   <summary><b>5. Merge sorted arrays</b></summary>
   
-- Problem link: [88. Merge sorted arrays](https://leetcode.com/problems/merge-sorted-array/description/)
+- [Problem link](https://leetcode.com/problems/merge-sorted-array/description/)
 - [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/88_merge_sorted_arrays.pdf)
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0088_merge_sorted_arrays)
 
@@ -168,10 +167,9 @@ Output: [0, 0, 0, 1, 1]
 <details>
   <summary><b>1. Rotate elements left or right k times</b></summary>
 
-- Problem link:
-  - [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissions/1375380722/)
-- Notes: [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/189_rotate_array.pdf)
-- Solution: [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0189_Rotate_array)
+- [Problem link](https://leetcode.com/problems/rotate-array/submissions/1375380722/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/189_rotate_array.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0189_Rotate_array)
 
 </details>
 
