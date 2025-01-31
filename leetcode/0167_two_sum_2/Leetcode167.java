@@ -7,7 +7,7 @@
  * Space complexity: O(1)
  */
 
-public class Solution {
+public class Leetcode167 {
     public int[] twoSum(int[] numbers, int target) {
         int[] result = new int[2];
 
