@@ -6,7 +6,7 @@
  * Space complexity: O(1)
  */
 
-public class Solution {
+public class Leetcode48 {
     public void rotate(int[][] matrix) {
         int n = matrix.length;
         reverseCols(matrix, n);
