@@ -7,7 +7,7 @@
  * Space complexity: O(1)
  */
 
-public class Solution {
+public class Leetcode121 {
     public int maxProfit(int[] prices) {
         int currentMinimumPrice = prices[0];
         int maxProfit = 0;
