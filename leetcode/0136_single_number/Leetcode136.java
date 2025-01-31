@@ -5,7 +5,7 @@
  * Time complexity: O(n)
  * Space complexity: O(1)
  */
-public class Solution {
+public class Leetcode136 {
     public int singleNumber(int[] nums) {
         int result = nums[0];
 
