@@ -10,7 +10,7 @@
 
 import java.util.*;
 
-public class Solution {
+public class Leetcode54 {
     public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> result = new ArrayList<>();
 
