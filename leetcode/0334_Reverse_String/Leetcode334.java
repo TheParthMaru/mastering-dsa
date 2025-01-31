@@ -6,7 +6,7 @@
  * Space complexity: O(1)
  */
 
-class Solution {
+public class Leetcode334 {
     public void reverseString(char[] s) {
         int i = 0, j = s.length - 1;
 
