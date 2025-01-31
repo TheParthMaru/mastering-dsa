@@ -6,7 +6,7 @@
  * Space complexity: O(1)
  */
 
-public class Solution {
+public class Leetcode169 {
     public int majorityElement(int[] nums) {
         int majority = nums[0]; // Initial candidate for majority
         int count = 1; // Start the counter at 1 because we assume the first element as majority
