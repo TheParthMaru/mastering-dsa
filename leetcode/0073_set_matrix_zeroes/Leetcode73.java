@@ -7,7 +7,7 @@
  * Space complexity: O(1)
  */
 
-public class Solution {
+public class Leetcode73 {
     public void setZeroes(int[][] matrix) {
         int totalRows = matrix.length;
         int totalCols = matrix[0].length;
