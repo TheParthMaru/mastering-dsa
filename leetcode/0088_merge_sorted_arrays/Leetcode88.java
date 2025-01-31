@@ -3,7 +3,7 @@
  * Difficulty: Easy
  */
 
-public class Solution {
+public class Leetcode88 {
 
     /**
      * Approach: Traditional merging approach
