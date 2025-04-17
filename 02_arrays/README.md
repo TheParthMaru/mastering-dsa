@@ -176,13 +176,35 @@ Output: [0, 0, 0, 1, 1]
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0169_majority_element)
 </details>
 
-<!-- Problem: Remove duplicates from sorted arrat -->
+<!-- Problem: Remove duplicates from sorted array -->
 <details>
   <summary><b>12. Remove Duplicates from Sorted Array</b></summary>
 
 - [Problem link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 - [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/26_remove_duplicates_from_sorted_array.pdf)
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0026_Remove_dup_from_sorted_arr)
+</details>
+
+<!-- Problem: Print all subarrays -->
+<details>
+  <summary><b>13. Print all subarrays</b></summary>
+  - Problem statement: Given an array, print all the subarrays of the given array.
+  ```
+  Input: [1,2,3,4]
+  Output: 1
+          1 2
+          1 2 3
+          1 2 3 4
+          2
+          2 3
+          2 3 4
+          3
+          3 4
+          4
+```
+
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/02_arrays/notes/06_print_all_subarrays.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/02_arrays/arrays_solutions/print-all-subarrays)
 </details>
 
 ## Medium
