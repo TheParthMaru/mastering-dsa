@@ -24,6 +24,30 @@
 
 </details>
 
+<!-- Problem: Print unique strings -->
+<details>
+  <summary><b>3. Print unique strings</b></summary>
+
+- Problem statement: Given an array of strings, print all the unique strings in the array. A unique string is a string that appears only once. A distinct string is a string that appears atleast once.
+- Test cases:
+
+```
+Input: ["apple", "banana", "apple", "orange", "banana", "grape"]
+Output: orange grape
+Explanation: "apple" and "banana" are repeated, so they are not unique. "orange" and "grape" appear only once.
+```
+
+```
+Input: ["cat", "dog", "fish", "dog", "bird", "cat", "lion"]
+Output: fish bird lion
+Explanation: "cat" and "dog" are repeated. "fish", "bird", and "lion" are unique.
+```
+
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/02_arrays/notes/05_print_unique_strings.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/blob/main/02_arrays/arrays_solutions/PrintUniqueStrings.java)
+
+</details>
+
 ## Easy
 
 <!-- Problem: Intersection of two arrays -->
