@@ -2,8 +2,8 @@
 
 ## Arrays
 
-1. DNF Algorithm
-2. Count frequency of string characters
+1. DNF Algorithm ✅
+2. Count frequency of string characters (This will come under string and hashing)
 3. Unique strings
 4. Reverse an array
 5. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
