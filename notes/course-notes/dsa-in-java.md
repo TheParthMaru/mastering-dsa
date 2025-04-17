@@ -6,12 +6,12 @@
 2. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 3. [Remove Element](https://leetcode.com/problems/remove-element/description/)
 4. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)
-5. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
-6. Add two arrays
-7. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
-8. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
-9. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
-10. Sort 0s and 1s
+5. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) ✅
+6. Add two arrays ✅
+7. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) ✅
+8. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) ✅
+9. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) ✅
+10. Sort 0s and 1s ✅
 11. [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 12. [Next Permutation](https://leetcode.com/problems/next-permutation/)
 13. [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
