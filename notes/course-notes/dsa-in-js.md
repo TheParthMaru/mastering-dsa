@@ -12,7 +12,7 @@
 8. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) ✅
 9. [Two Sum](https://leetcode.com/problems/two-sum/description/) ✅
 10. [Single Number](https://leetcode.com/problems/single-number/description/) ✅
-11. Print all subarray
+11. Print all subarray ✅
 12. [Majority Element](https://leetcode.com/problems/majority-element/description/) ✅
 13. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) ✅
 14. [3Sum](https://leetcode.com/problems/3sum/description/)
