@@ -2,7 +2,7 @@
 
 ## Arrays
 
-1. Find subarrays
+1. Find subarrays ✅
 2. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 3. [Remove Element](https://leetcode.com/problems/remove-element/description/)
 4. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)
