@@ -182,7 +182,7 @@ Output: [0, 0, 0, 1, 1]
 
 - [Problem link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 - [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/26_remove_duplicates_from_sorted_array.pdf)
-- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0026_Remove_dup_from_sorted_arr)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0026_remove_dup_from_sorted_arr)
 </details>
 
 <!-- Problem: Find/ Print all subarrays -->
