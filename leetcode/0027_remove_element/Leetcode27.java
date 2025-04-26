@@ -7,7 +7,7 @@
  * Space complexity: O(1)
  */
 
-public class Leetcode29 {
+public class Leetcode27 {
     public static int solution(int[] arr, int value) {
         int i = 0, j = arr.length - 1, k = 0;
 
