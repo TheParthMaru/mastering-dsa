@@ -185,9 +185,9 @@ Output: [0, 0, 0, 1, 1]
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0026_Remove_dup_from_sorted_arr)
 </details>
 
-<!-- Problem: Print all subarrays -->
+<!-- Problem: Find/ Print all subarrays -->
 <details>
-  <summary><b>13. Print all subarrays</b></summary>
+  <summary><b>13. Find/ Print all subarrays</b></summary>
   - Problem statement: Given an array, print all the subarrays of the given array.
   ```
   Input: [1,2,3,4]
