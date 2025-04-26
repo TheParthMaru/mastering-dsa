@@ -218,6 +218,15 @@ Output: 1
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/1929_concatenation_of_array)
 </details>
 
+<!-- Problem: Remove Element -->
+<details>
+  <summary><b>15. Remove Element</b></summary>
+
+- [Problem link](https://leetcode.com/problems/remove-element/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/27_remove_element.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0027_remove_element)
+</details>
+
 ## Medium
 
 <!-- Problem: Rotate elements left or right k times -->
