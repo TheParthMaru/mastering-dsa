@@ -29,7 +29,7 @@
     <tr>
       <td>4</td>
       <td><a href="https://leetcode.com/problems/concatenation-of-array/description/">Concatenation of Array</a></td>
-      <td></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>5</td>
