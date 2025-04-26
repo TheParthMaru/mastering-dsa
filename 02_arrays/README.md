@@ -227,6 +227,15 @@ Output: 1
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0027_remove_element)
 </details>
 
+<!-- Problem: Valid Palindrome -->
+<details>
+  <summary><b>16. Valid Palindrome</b></summary>
+
+- [Problem link](https://leetcode.com/problems/valid-palindrome/description/)
+- [Link to notes]()
+- [Link to solution]()
+</details>
+
 ## Medium
 
 <!-- Problem: Rotate elements left or right k times -->
@@ -246,6 +255,106 @@ Output: 1
 - [Problem link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 - [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/167_two_sum_2.pdf)
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0167_two_sum_2)
+
+</details>
+
+<!-- Problem: Boats to Save People -->
+<details>
+  <summary><b>3. Boats to Save People</b></summary>
+
+- [Problem link](https://leetcode.com/problems/boats-to-save-people/description/)
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: Next Permutation -->
+<details>
+  <summary><b>4. Next Permutation</b></summary>
+
+- [Problem link](https://leetcode.com/problems/next-permutation/description/)
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: Sort Colors -->
+<details>
+  <summary><b>5. Sort Colors</b></summary>
+
+- [Problem link](https://leetcode.com/problems/sort-colors/description/)
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: 3Sum -->
+<details>
+  <summary><b>6. 3Sum</b></summary>
+
+- [Problem link](https://leetcode.com/problems/3sum/description/)
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: 3Sum With Multiplicity -->
+<details>
+  <summary><b>7. 3Sum With Multiplicity</b></summary>
+
+- [Problem link](https://leetcode.com/problems/3sum-with-multiplicity/description/)
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: 4Sum -->
+<details>
+  <summary><b>8. 4Sum</b></summary>
+
+- [Problem link](https://leetcode.com/problems/4sum/description/)
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: Number of Subsequences That Satisfy the Given Sum Condition -->
+<details>
+  <summary><b>9. Number of Subsequences That Satisfy the Given Sum Condition</b></summary>
+
+- [Problem link](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/)
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: Sum of Square Numbers -->
+<details>
+  <summary><b>10. Sum of Square Numbers</b></summary>
+
+- [Problem link](https://leetcode.com/problems/sum-of-square-numbers/description/)
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: Minimize Maximum Pair Sum in Array -->
+<details>
+  <summary><b>11. Minimize Maximum Pair Sum in Array</b></summary>
+
+- [Problem link](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/)
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: Container With Most Water -->
+<details>
+  <summary><b>12. Container With Most Water</b></summary>
+
+- [Problem link](https://leetcode.com/problems/container-with-most-water/description/)
+- [Link to notes]()
+- [Link to solution]()
 
 </details>
 
