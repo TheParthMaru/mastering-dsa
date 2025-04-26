@@ -1,5 +1,3 @@
-package leetcode;
-
 public class Leetcode1929 {
 
     /**
