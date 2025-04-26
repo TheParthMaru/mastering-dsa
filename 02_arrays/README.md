@@ -188,19 +188,21 @@ Output: [0, 0, 0, 1, 1]
 <!-- Problem: Find/ Print all subarrays -->
 <details>
   <summary><b>13. Find/ Print all subarrays</b></summary>
-  - Problem statement: Given an array, print all the subarrays of the given array.
-  ```
-  Input: [1,2,3,4]
-  Output: 1
-          1 2
-          1 2 3
-          1 2 3 4
-          2
-          2 3
-          2 3 4
-          3
-          3 4
-          4
+  
+- Problem statement: Given an array, print all the subarrays of the given array.
+
+```
+Input: [1,2,3,4]
+Output: 1
+        1 2
+        1 2 3
+        1 2 3 4
+        2
+        2 3
+        2 3 4
+        3
+        3 4
+        4
 ```
 
 - [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/02_arrays/notes/06_print_all_subarrays.pdf)
