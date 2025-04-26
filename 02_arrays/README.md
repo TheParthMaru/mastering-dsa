@@ -209,6 +209,15 @@ Output: 1
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/02_arrays/arrays_solutions/print-all-subarrays)
 </details>
 
+<!-- Problem: Concatenation of Array -->
+<details>
+  <summary><b>14. Concatenation of Array</b></summary>
+
+- [Problem link](https://leetcode.com/problems/concatenation-of-array/description/)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/1929_concatenation_of_array.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/1929_concatenation_of_array)
+</details>
+
 ## Medium
 
 <!-- Problem: Rotate elements left or right k times -->
