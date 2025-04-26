@@ -7,21 +7,20 @@
  * Space complexity: O(1)
  */
 
-var removeElement = function (arr, val) {
-	let i = 0;
-	let j = arr.length - 1;
-	let swaps = 0;
+function solution(nums, value) {
+	let i = 0,
+		j = nums.length - 1,
+		k = 0;
 
 	while (i <= j) {
-		if (arr[i] === val) {
+		if (nums[i] == value) {
 			[arr[i], arr[j]] = [arr[j], arr[i]];
-			swaps++;
 			j--;
 		} else {
 			i++;
+			k++;
 		}
 	}
 
-	let k = arr.length - swaps;
 	return k;
-};
+}
