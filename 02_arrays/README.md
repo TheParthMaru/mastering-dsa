@@ -263,8 +263,8 @@ Output: 1
   <summary><b>3. Boats to Save People</b></summary>
 
 - [Problem link](https://leetcode.com/problems/boats-to-save-people/description/)
-- [Link to notes]()
-- [Link to solution]()
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/881_boats_to_save_people.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0881_boats_to_save_people)
 
 </details>
 
