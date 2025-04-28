@@ -273,8 +273,8 @@ Output: 1
   <summary><b>4. Next Permutation</b></summary>
 
 - [Problem link](https://leetcode.com/problems/next-permutation/description/)
-- [Link to notes]()
-- [Link to solution]()
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/31_next_permutation.pdf)
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0031_next_permutation)
 
 </details>
 
