@@ -6,7 +6,7 @@
  * Space complexity: O(1)
  */
 
-public class Solution {
+public class Leetcode485 {
     public int findMaxConsecutiveOnes(int[] nums) {
         int max = 0;
         int counter = 0;

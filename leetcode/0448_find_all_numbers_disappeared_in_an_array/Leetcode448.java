@@ -7,7 +7,7 @@
 
 import java.util.*;
 
-public class Solution {
+public class Leetcode448 {
 
     /**
      * Approach 01: Bruteforce approach

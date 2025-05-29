@@ -7,7 +7,7 @@
  * Space complexity: O(m x n)
  */
 
-public class Solution {
+public class Leetcode867 {
     public int[][] transpose(int[][] matrix) {
         int totalRows = matrix.length;
         int totalCols = matrix[0].length;

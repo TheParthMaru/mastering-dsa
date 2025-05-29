@@ -8,7 +8,7 @@
  * Space complexity: O(1)
  */
 
-public class Solution {
+public class Leetcode1672 {
     public int maximumWealth(int[][] accounts) {
         int maxWealth = 0;
 

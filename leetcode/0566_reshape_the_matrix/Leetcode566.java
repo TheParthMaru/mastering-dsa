@@ -7,7 +7,7 @@
  * Space complexity: O(1)
  */
 
-public class Solution {
+public class Leetcode566 {
   public int[][] matrixReshape(int[][] mat, int r, int c) {
     int m = mat.length;
     int n = mat[0].length;

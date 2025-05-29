@@ -8,7 +8,7 @@
  * 
  */
 
-public class Solution {
+public class Leetcode1275 {
     public String tictactoe(int[][] moves) {
         String[][] grid = { { " ", " ", " " }, { " ", " ", " " }, { " ", " ", " " } };
 

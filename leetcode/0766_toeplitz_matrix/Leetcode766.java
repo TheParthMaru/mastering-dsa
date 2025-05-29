@@ -6,7 +6,7 @@
  * Time complexity: O(m x n)
  * Space complexity: O(1)
  */
-public class Solution {
+public class Leetcode766 {
     public boolean isToeplitzMatrix(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;

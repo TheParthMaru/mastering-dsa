@@ -6,7 +6,7 @@
  * Time complexity: O(N X N) (n x n matrix)
  * Space complexity: O(1)
  */
-public class Solution {
+public class Leetcode832 {
     public int[][] flipAndInvertImage(int[][] image) {
         reverseRows(image);
         flipImage(image);
