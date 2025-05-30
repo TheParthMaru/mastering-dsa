@@ -47,12 +47,19 @@
 - [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/509_%20fibonacci_number.pdf)
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0509_fibonacci_number)
 - Note:
-  - There are various approaches to solve this problem:
-    - Iterative ✅
-    - Recursive ✅
-    - Better recursive with DP (multiple approaches) ❌
-</details>
+  - There are various approaches to solve this problem: - Iterative ✅ - Recursive ✅ - Better recursive with DP (multiple approaches) ❌
+  </details>
 
 ## Medium
 
 ## Hard
+
+### Arrays and recursion
+
+1. Print an array in ascending order recursively.
+2. Print an array in descending order recursively.
+3. Why f(idx++) and f(++idx) is bad idea in recursion?
+4. Given an array, calculate the max element of the array recursively.
+5. Calculate the sum of all the elements of an array recursively.
+6. Given an array and an element x, find the index of the first occurrence of x. Return -1 if no occurrence found.
+7. Leetcode 198 - House robber (not optimal using basic recursion, DP required but solve the basic version to practice recursion)
