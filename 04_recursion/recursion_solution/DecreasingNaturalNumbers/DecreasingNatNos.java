@@ -1,3 +1,5 @@
+package DecreasingNaturalNumbers;
+
 public class DecreasingNatNos {
     public static void decreasingNaturalNumbers(int num) {
         System.out.print(num + " ");
