@@ -7,7 +7,7 @@
   <summary><b>01. Calculate n factorial recursively</b></summary>
 
 - [Link to notes]()
-- [Link to solution]()
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/Factorial)
 
 </details>
 
@@ -16,7 +16,7 @@
   <summary><b>02. Calculate a to the power of b recursively</b></summary>
 
 - [Link to notes]()
-- [Link to solution]()
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/Power)
 
 </details>
 
@@ -25,7 +25,7 @@
   <summary><b>03. Print natural numbers till n in decreasing order recursively</b></summary>
 
 - [Link to notes]()
-- [Link to solution]()
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/DecreasingNaturalNumbers)
 
 </details>
 
@@ -34,7 +34,7 @@
   <summary><b>04. Print odd numbers in decreasing sequence and even numbers in increasing sequence recursively</b></summary>
 
 - [Link to notes]()
-- [Link to solution]()
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/PrintOddEvenSequence)
 
 </details>
 
@@ -94,7 +94,6 @@
 ### Arrays and recursion
 
 3. Why f(idx++) and f(++idx) is bad idea in recursion?
-4. Given an array, calculate the max element of the array recursively.
-5. Calculate the sum of all the elements of an array recursively.
-6. Given an array and an element x, find the index of the first occurrence of x. Return -1 if no occurrence found.
-7. Leetcode 198 - House robber (not optimal using basic recursion, DP required but solve the basic version to practice recursion)
+4. Calculate the sum of all the elements of an array recursively.
+5. Given an array and an element x, find the index of the first occurrence of x. Return -1 if no occurrence found.
+6. Leetcode 198 - House robber (not optimal using basic recursion, DP required but solve the basic version to practice recursion)
