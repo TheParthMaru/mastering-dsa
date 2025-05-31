@@ -38,6 +38,24 @@
 
 </details>
 
+<!-- Problem: Print array elements in ascending order recursively -->
+<details>
+  <summary><b>05. Print array elements in ascending order recursively</b></summary>
+
+- [Link to notes]()
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/printArrayAscOrder)
+
+</details>
+
+<!-- Problem: Print array elements in descending order recursively -->
+<details>
+  <summary><b>06. Print array elements in descending order recursively</b></summary>
+
+- [Link to notes]()
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/PrintArrayDescOrder)
+
+</details>
+
 ## Easy
 
 <!-- Problem: Fibonacci Number -->
@@ -46,9 +64,28 @@
 
 - [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/509_%20fibonacci_number.pdf)
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0509_fibonacci_number)
-- Note:
-  - There are various approaches to solve this problem: - Iterative ✅ - Recursive ✅ - Better recursive with DP (multiple approaches) ❌
-  </details>
+- Note: There are various approaches to solve this problem:
+  - Iterative ✅
+  - Recursive ✅
+  - Better recursive with DP (multiple approaches) ❌
+
+</details>
+
+<!-- Problem: Find Maximum Element in Array Using Recursion -->
+<details>
+  <summary><b>02. Find Maximum Element in Array Using Recursion</b></summary>
+
+- Problem statement: Given an array, calculate the max element of the array recursively.
+
+- Test cases:
+  ```
+  Input: arr = [1,5,8,13,6]
+  Output: 13
+  ```
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
 
 ## Medium
 
@@ -56,8 +93,6 @@
 
 ### Arrays and recursion
 
-1. Print an array in ascending order recursively.
-2. Print an array in descending order recursively.
 3. Why f(idx++) and f(++idx) is bad idea in recursion?
 4. Given an array, calculate the max element of the array recursively.
 5. Calculate the sum of all the elements of an array recursively.
