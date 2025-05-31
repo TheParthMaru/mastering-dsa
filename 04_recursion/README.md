@@ -56,6 +56,15 @@
 
 </details>
 
+<!-- Problem: Sum of elements of array -->
+<details>
+  <summary><b>07. Sum of elements of array</b></summary>
+
+- [Link to notes]()
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/SumOfArrayElements)
+
+</details>
+
 ## Easy
 
 <!-- Problem: Fibonacci Number -->
