@@ -96,6 +96,22 @@
 
 </details>
 
+<!-- Problem: Find first occurrence -->
+<details>
+  <summary><b>03. Find first occurrence</b></summary>
+
+- Problem statement: Given an array and an element x, find the index of the first occurrence of x. Return -1 if no occurrence found.
+
+- Test cases:
+  ```
+  Input: arr = [1,7,2,3,6,9,3,1,3,6]
+  Output: 3
+  ```
+- [Link to notes]()
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/FirstOccurrence)
+
+</details>
+
 ## Medium
 
 ## Hard
@@ -103,6 +119,5 @@
 ### Arrays and recursion
 
 3. Why f(idx++) and f(++idx) is bad idea in recursion?
-4. Calculate the sum of all the elements of an array recursively.
-5. Given an array and an element x, find the index of the first occurrence of x. Return -1 if no occurrence found.
-6. Leetcode 198 - House robber (not optimal using basic recursion, DP required but solve the basic version to practice recursion)
+4. Given an array and an element x, find the index of the first occurrence of x. Return -1 if no occurrence found.
+5. Leetcode 198 - House robber (not optimal using basic recursion, DP required but solve the basic version to practice recursion)
