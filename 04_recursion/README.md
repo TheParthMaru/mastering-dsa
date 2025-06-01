@@ -112,6 +112,16 @@
 
 </details>
 
+<!-- Problem: Climbing stairs -->
+<details>
+  <summary><b>04. Climbing stairs</b></summary>
+
+- [Link to notes]()
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0070_climbing_stairs)
+- Additional note: The current solution results in a TLE on leetcode. We need to learn DP in order to optimize it.
+
+</details>
+
 ## Medium
 
 ## Hard
@@ -119,5 +129,4 @@
 ### Arrays and recursion
 
 3. Why f(idx++) and f(++idx) is bad idea in recursion?
-4. Given an array and an element x, find the index of the first occurrence of x. Return -1 if no occurrence found.
-5. Leetcode 198 - House robber (not optimal using basic recursion, DP required but solve the basic version to practice recursion)
+4. Leetcode 198 - House robber (not optimal using basic recursion, DP required but solve the basic version to practice recursion)
