@@ -124,6 +124,16 @@
 
 ## Medium
 
+<!-- Problem: House robber -->
+<details>
+  <summary><b>01. House robber</b></summary>
+
+- [Link to notes]()
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0198_house_robber)
+- Additional note: The current solution results in a TLE on leetcode. We need to learn DP in order to optimize it.
+
+</details>
+
 ## Hard
 
 ### Arrays and recursion
