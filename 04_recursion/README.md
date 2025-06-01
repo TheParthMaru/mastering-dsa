@@ -149,4 +149,3 @@
 ### Arrays and recursion
 
 3. Why f(idx++) and f(++idx) is bad idea in recursion?
-4. Leetcode 198 - House robber (not optimal using basic recursion, DP required but solve the basic version to practice recursion)
