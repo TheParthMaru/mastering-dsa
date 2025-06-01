@@ -122,6 +122,16 @@
 
 </details>
 
+<!-- Problem: n-th tribonacci number -->
+<details>
+  <summary><b>05. N-th tribonacci number</b></summary>
+
+- [Link to notes]()
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/1137_nth_tribonacci_number)
+- Additional note: The current solution results in a TLE on leetcode. We need to learn DP in order to optimize it.
+
+</details>
+
 ## Medium
 
 <!-- Problem: House robber -->
