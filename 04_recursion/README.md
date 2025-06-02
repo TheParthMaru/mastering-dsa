@@ -65,6 +65,33 @@
 
 </details>
 
+<!-- Problem: Sum of digits in a string using recursion -->
+<details>
+  <summary><b>08. Sum of Digits in String using Recursion</b></summary>
+
+- Problem statement: Given a string str representing a non-negative integer, write a recursive function that computes the sum of its digits and prints the result.
+
+- Test cases:
+
+```
+Input: "1234"
+Output: 10
+(Explanation: 1 + 2 + 3 + 4 = 10)
+
+Input: "98765"
+Output: 35
+(Explanation: 9 + 8 + 7 + 6 + 5 = 35)
+
+Input: "0"
+Output: 0
+(Explanation: Only one digit 0)
+```
+
+- [Link to notes]()
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/SumOfDigitsInString)
+
+</details>
+
 ## Easy
 
 <!-- Problem: Fibonacci Number -->
