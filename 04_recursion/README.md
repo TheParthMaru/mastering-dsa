@@ -159,6 +159,30 @@ Output: 0
 
 </details>
 
+<!-- Problem: String to integer conversion -->
+<details>
+  <summary><b>06. String to integer conversion</b></summary>
+
+- Problem statement: Given a string str representing a non-negative integer, write a recursive function to convert it into its equivalent integer value. Print the value returned by the function.
+
+- Test cases:
+
+  ```
+  Input: "1234"
+  Output: 1234
+
+  Input: "0"
+  Output: 0
+
+  Input: "502"
+  Output: 502
+  ```
+
+- [Link to notes]()
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/StringToIntegerConversion)
+
+</details>
+
 ## Medium
 
 <!-- Problem: House robber -->
