@@ -183,6 +183,30 @@ Output: 0
 
 </details>
 
+<!-- Problem: Palindrom check -->
+<details>
+  <summary><b>07. Palindrom check</b></summary>
+
+- Problem statement: Given a string str, write a recursive function that checks whether the string is a palindrome or not. Return and print a boolean value: true if it is a palindrome, false otherwise.
+
+- Test cases:
+
+  ```
+  Input: "madam"
+  Output: true
+
+  Input: "racecar"
+  Output: true
+
+  Input: "hello"
+  Output: false
+  ```
+
+- [Link to notes]()
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/PalindromeCheck)
+
+</details>
+
 ## Medium
 
 <!-- Problem: House robber -->
