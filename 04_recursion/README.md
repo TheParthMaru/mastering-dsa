@@ -223,6 +223,21 @@ Output: 0
 <details>
   <summary><b>02. Insert Separator Between Duplicate Consecutive Characters</b></summary>
 
+- Problem statement: Given a string str, write a recursive function that inserts a '\*' between duplicate consecutive characters and returns the new string. Print the value returned.
+
+- Test cases:
+
+  ```
+  Input: "hello"
+  Output: "hel*lo"
+
+  Input: "aabb"
+  Output: "a*ab*b"
+
+  Input: "abc"
+  Output: "abc"
+  ```
+
 - [Link to notes]()
 - [Link to solution]()
 
@@ -231,6 +246,21 @@ Output: 0
 <!-- Problem: Move All 'x' Characters to End using Recursion -->
 <details>
   <summary><b>03. Move All 'x' Characters to End using Recursion</b></summary>
+
+- Problem statement: Given a string str, write a recursive function that moves all occurrences of the character 'x' to the end of the string while maintaining the order of the other characters. Print the value returned.
+
+- Test cases:
+
+  ```
+  Input: "abexedexed"
+  Output: "abeedeedxx"
+
+  Input: "xxabcx"
+  Output: "abcxxx"
+
+  Input: "abcd"
+  Output: "abcd"
+  ```
 
 - [Link to notes]()
 - [Link to solution]()
@@ -249,6 +279,21 @@ Output: 0
 <!-- Problem: Count Twins in String using Recursion -->
 <details>
   <summary><b>05. Count Twins in String using Recursion</b></summary>
+
+- Problem statement: Given a string str that contains exactly one pair of parentheses ( ), write a recursive function to extract and return the substring enclosed within the parentheses. Print the value returned.
+
+- Test cases:
+
+  ```
+  Input: "xyz(abc)def"
+  Output: "abc"
+
+  Input: "(hello)"
+  Output: "hello"
+
+  Input: "123(xyz)456"
+  Output: "xyz"
+  ```
 
 - [Link to notes]()
 - [Link to solution]()
