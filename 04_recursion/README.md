@@ -219,6 +219,42 @@ Output: 0
 
 </details>
 
+<!-- Problem: Insert Separator Between Duplicate Consecutive Characters -->
+<details>
+  <summary><b>02. Insert Separator Between Duplicate Consecutive Characters</b></summary>
+
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: Move All 'x' Characters to End using Recursion -->
+<details>
+  <summary><b>03. Move All 'x' Characters to End using Recursion</b></summary>
+
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: Extract Substring Between Parentheses using Recursion -->
+<details>
+  <summary><b>04. Extract Substring Between Parentheses using Recursion</b></summary>
+
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: Count Twins in String using Recursion -->
+<details>
+  <summary><b>05. Count Twins in String using Recursion</b></summary>
+
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
 ## Hard
 
 ### Arrays and recursion
