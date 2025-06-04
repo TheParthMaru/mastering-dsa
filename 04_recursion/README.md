@@ -305,7 +305,7 @@ Output: 0
   Explanation: A's at positions 0-2, 1-3, 2-4
 
   Input: "ababa"
-  Output: 1
+  Output: 3
 
   Input: "aaaa"
   Output: 2
