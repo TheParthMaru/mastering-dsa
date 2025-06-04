@@ -271,15 +271,6 @@ Output: 0
 <details>
   <summary><b>04. Extract Substring Between Parentheses using Recursion</b></summary>
 
-- [Link to notes]()
-- [Link to solution]()
-
-</details>
-
-<!-- Problem: Count Twins in String using Recursion -->
-<details>
-  <summary><b>05. Count Twins in String using Recursion</b></summary>
-
 - Problem statement: Given a string str that contains exactly one pair of parentheses ( ), write a recursive function to extract and return the substring enclosed within the parentheses. Print the value returned.
 
 - Test cases:
@@ -293,6 +284,31 @@ Output: 0
 
   Input: "123(xyz)456"
   Output: "xyz"
+  ```
+
+- [Link to notes]()
+- [Link to solution]()
+
+</details>
+
+<!-- Problem: Count Twins in String using Recursion -->
+<details>
+  <summary><b>05. Count Twins in String using Recursion</b></summary>
+
+- Problem statement: A "twin" is defined as two identical characters separated by any character. Write a recursive function to count the total number of twins in a given string str. Twins may overlap. Print the value returned.
+
+- Test cases:
+
+  ```
+  Input: "AxAxA"
+  Output: 3
+  Explanation: A's at positions 0-2, 1-3, 2-4
+
+  Input: "ababa"
+  Output: 1
+
+  Input: "aaaa"
+  Output: 2
   ```
 
 - [Link to notes]()
