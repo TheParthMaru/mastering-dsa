@@ -287,7 +287,7 @@ Output: 0
   ```
 
 - [Link to notes]()
-- [Link to solution]()
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/ExtractParentheses)
 
 </details>
 
