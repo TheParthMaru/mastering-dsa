@@ -348,6 +348,20 @@ Output: 0
 
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/blob/main/04_recursion/recursion_solution/PatternPrinting/Pattern2.java)
 
+2. Pattern 3
+
+- For n = 5,
+
+  ```
+  * * * * *
+  * * * *
+  * * *
+  * *
+  *
+  ```
+
+- [Link to solution]()
+
 ### Arrays and recursion
 
 3. Why f(idx++) and f(++idx) is bad idea in recursion?
