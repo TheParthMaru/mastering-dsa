@@ -318,6 +318,22 @@ Output: 0
 
 ## Hard
 
+## Pattern printing
+
+1. Pattern 1
+
+- For n = 5,
+
+  ```
+  * * * * *
+  * * * * *
+  * * * * *
+  * * * * *
+  * * * * *
+  ```
+
+- [Link to solution](https://github.com/TheParthMaru/mastering-dsa/blob/main/04_recursion/recursion_solution/PatternPrinting/Pattern1.java)
+
 ### Arrays and recursion
 
 3. Why f(idx++) and f(++idx) is bad idea in recursion?
