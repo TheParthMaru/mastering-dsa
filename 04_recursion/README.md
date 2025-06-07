@@ -6,7 +6,7 @@
 <details>
   <summary><b>01. Calculate n factorial recursively</b></summary>
 
-- [Link to notes]()
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/04_recursion/notes/01_recursion_1.pdf)
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/Factorial)
 
 </details>
@@ -15,7 +15,7 @@
 <details>
   <summary><b>02. Calculate a to the power of b recursively</b></summary>
 
-- [Link to notes]()
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/04_recursion/notes/01_recursion_1.pdf)
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/Power)
 
 </details>
@@ -24,7 +24,7 @@
 <details>
   <summary><b>03. Print natural numbers till n in decreasing order recursively</b></summary>
 
-- [Link to notes]()
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/04_recursion/notes/01_recursion_1.pdf)
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/DecreasingNaturalNumbers)
 
 </details>
