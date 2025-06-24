@@ -143,9 +143,9 @@ Output: 0
 <details>
   <summary><b>04. Climbing stairs</b></summary>
 
-- [Link to notes]()
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/70_climbing_stairs.pdf)
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0070_climbing_stairs)
-- Additional note: The current solution results in a TLE on leetcode. We need to learn DP in order to optimize it.
+- Additional note: The current recursive solution results in a TLE on leetcode. We need to learn DP in order to optimize it.
 
 </details>
 
