@@ -153,7 +153,7 @@ Output: 0
 <details>
   <summary><b>05. N-th tribonacci number</b></summary>
 
-- [Link to notes]()
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/1137_n_th_tribonacci_number.pdf)
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/1137_nth_tribonacci_number)
 - Additional note: The current solution results in a TLE on leetcode. We need to learn DP in order to optimize it.
 
