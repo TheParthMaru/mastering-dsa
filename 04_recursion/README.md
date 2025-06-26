@@ -98,12 +98,14 @@ Output: 0
 <details>
   <summary><b>01. Fibonacci Number</b></summary>
 
-- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/509_%20fibonacci_number.pdf)
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/notes/leetcode-problems-notes/509_fibonacci_number.pdf)
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/leetcode/0509_fibonacci_number)
 - Note: There are various approaches to solve this problem:
+  - Formula ✅
   - Iterative ✅
   - Recursive ✅
   - Better recursive with DP (multiple approaches) ❌
+  - Matrix exponentiation ❌
 
 </details>
 
