@@ -33,7 +33,7 @@
 <details>
   <summary><b>04. Print odd numbers in decreasing sequence and even numbers in increasing sequence recursively</b></summary>
 
-- [Link to notes]()
+- [Link to notes](https://github.com/TheParthMaru/mastering-dsa/blob/main/04_recursion/notes/02_print_odd_even_sequence.pdf)
 - [Link to solution](https://github.com/TheParthMaru/mastering-dsa/tree/main/04_recursion/recursion_solution/PrintOddEvenSequence)
 
 </details>
